@@ -1,0 +1,16 @@
+Intro:
+
+Restricted 3 body problem overview
+Softening length
+NFW profile
+Rotation Curves
+
+
+
+Method:
+Randomly distribute stars
+Taylor
+RK4
+Scipy black box
+
+

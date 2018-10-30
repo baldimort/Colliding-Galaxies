@@ -1,0 +1,21 @@
+**************************************************************************************
+
+COLLISION LOG
+DATA SET: 20180227_022957_DATA
+DATE/TIME: 20180310_155211
+
+**************************************************************************************
+
+
+MW Initial Stars,MW final Stars
+5000,3496
+
+M31 Initial Stars,M31 final Stars
+5000,6504
+
+MW mean velocity (km/s),Velocity Dispersion
+17871.1324383,183941.275002
+
+M31 mean velocity (km/s),Velocity Dispersion
+7951.68243723,97107.5643824
+

@@ -1,0 +1,33 @@
+**************************************************************************************
+
+COLLISION LOG
+DATA SET: 20180227_022957_DATA
+DATE/TIME: 20180227_205949
+
+**************************************************************************************
+
+
+MW Initial Stars,MW final Stars
+5000,3496
+
+M31 Initial Stars,M31 final Stars
+5000,6504
+
+MW mean velocity (km/s),Velocity Dispersion
+71.2206257877,51.5297805047
+
+M31 mean velocity (km/s),Velocity Dispersion
+100.616528978,90.2577955873
+
+MW Bootstrapping fit (N=1000.0)
+r_s median,r_s upperbound,r_s lowerbound
+47.67,54.66,41.50
+r_200 median,r_200 upper bound,r_200 lower bound
+176.99,178.82,175.08
+
+M31 Bootstrapping fit (N=1000.0)
+r_s median,r_s upperbound,r_s lowerbound
+20.42,21.72,19.17
+r_200 median,r_200 upper bound,r_200 lower bound
+233.08,233.76,232.41
+

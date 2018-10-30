@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Colliding Galaxies.aux
+The style file: ieeetr.bst
+Database file #1: Bibliography.bib
+You've used 15 entries,
+            1876 wiz_defined-function locations,
+            580 strings with 6667 characters,
+and the built_in function-call counts, 3661 in all, are:
+= -- 359
+> -- 154
+< -- 0
++ -- 58
+- -- 43
+* -- 273
+:= -- 538
+add.period$ -- 17
+call.type$ -- 15
+change.case$ -- 15
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 186
+empty$ -- 322
+format.name$ -- 43
+if$ -- 879
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 15
+newline$ -- 50
+num.names$ -- 14
+pop$ -- 35
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 142
+stack$ -- 0
+substring$ -- 197
+swap$ -- 82
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 33
+width$ -- 17
+write$ -- 143

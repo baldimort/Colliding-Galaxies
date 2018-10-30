@@ -1,0 +1,11 @@
+variable: time integar units of days(?)
+variable: rocket_path numpy array (x,y,x_vel,y_vel)
+function: earth_pos(t) return (x_earth,y_earth)
+function: moon_pos(t) return (x_moon,y_moon)
+function: period_orbit() return float in seconds
+function: radius_earth_orbit() return float in m
+function: radius_moon_orbit() return float in m
+function: accn_rocket(x,y) return (x_accel,y_accel)
+function: Taylor(a,x0,y0,x0_vel,y0_vel) return (x1,y1,x1_vel,y1_vel)
+function: RK(a,x0,y0,x0_vel,y0_vel) return (x1,y1,x1_vel,y1_vel)
+function: solve_path_rocket(initialconditions,method) return numpy array (x,y,x_vel,y_vel)

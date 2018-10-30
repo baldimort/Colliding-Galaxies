@@ -1,0 +1,78 @@
+\begin{thebibliography}{10}
+
+\bibitem{vanderMarelM31VelocityVector2012}
+R.~P. {van der Marel}, M.~Fardal, G.~Besla, R.~L. Beaton, S.~T. Sohn,
+  J.~Anderson, T.~Brown, and P.~Guhathakurta, ``The {{M31 Velocity Vector}}.
+  {{II}}. {{Radial Orbit Towards}} the {{Milky Way}} and {{Implied Local Group
+  Mass}},'' {\em The Astrophysical Journal}, vol.~753, p.~8, July 2012.
+
+\bibitem{CoxCollisionMilkyWay2008}
+T.~J. Cox and A.~Loeb, ``The {{Collision Between The Milky Way And
+  Andromeda}},'' {\em Monthly Notices of the Royal Astronomical Society},
+  vol.~386, pp.~461--474, May 2008.
+
+\bibitem{BanikOriginLocalGroup2018}
+I.~Banik, D.~O'Ryan, and H.~Zhao, ``Origin of the {{Local Group}} satellite
+  planes in {{Modified Newtonian Dynamics}},'' {\em arXiv:1802.00440
+  [astro-ph]}, Feb. 2018.
+
+\bibitem{EinastoConstructionCompositeModel1965}
+J.~Einasto, ``On the {{Construction}} of a {{Composite Model}} for the
+  {{Galaxy}} and on the {{Determination}} of the {{System}} of {{Galactic
+  Parameters}},'' {\em Trudy Astrofizicheskogo Instituta Alma-Ata}, vol.~5,
+  pp.~87--100, 1965.
+
+\bibitem{NavarroStructureColdDark1996}
+J.~F. Navarro, C.~S. Frenk, and S.~D.~M. White, ``The {{Structure}} of {{Cold
+  Dark Matter Halos}},'' {\em The Astrophysical Journal}, vol.~462, p.~563, May
+  1996.
+
+\bibitem{RodionovOptimalChoiceSoftening2005}
+S.~A. Rodionov and N.~Y. Sotnikova, ``Optimal {{Choice}} of the {{Softening
+  Length}} and {{Time}}-{{Step}} in {{N}}-body {{Simulations}},'' {\em
+  Astronomy Reports}, vol.~49, pp.~470--476, June 2005.
+
+\bibitem{EggenEvidencemotionsold1962}
+O.~J. Eggen, D.~Lynden-Bell, and A.~R. Sandage, ``Evidence from the motions of
+  old stars that the {{Galaxy}} collapsed.,'' {\em The Astrophysical Journal},
+  vol.~136, p.~748, Nov. 1962.
+
+\bibitem{C.C.DyerSofteningNbodysimulations1993}
+{C. C. Dyer} and P.~S.~S. Ip, ``Softening in {{N}}-body simulations of
+  collisionless systems,'' {\em The Astrophysical Journal}, vol.~409, May 1993.
+
+\bibitem{ReadLocalDarkMatter2014}
+J.~I. Read, ``The {{Local Dark Matter Density}},'' {\em Journal of Physics G:
+  Nuclear and Particle Physics}, vol.~41, p.~063101, June 2014.
+
+\bibitem{NavarroinnerstructureLCDM2004}
+J.~F. Navarro, E.~Hayashi, C.~Power, A.~R. Jenkins, C.~S. Frenk, S.~D.~M.
+  White, V.~Springel, J.~Stadel, and T.~R. Quinn, ``The inner structure of
+  {{$\Lambda$CDM}} haloes - {{III}}. {{Universality}} and asymptotic slopes,''
+  {\em Monthly Notices of the Royal Astronomical Society}, vol.~349,
+  pp.~1039--1051, Apr. 2004.
+
+\bibitem{Newtontotalsatellitepopulation2017}
+O.~Newton, M.~Cautun, A.~Jenkins, C.~S. Frenk, and J.~Helly, ``The total
+  satellite population of the {{Milky Way}},'' {\em arXiv:1708.04247
+  [astro-ph]}, Aug. 2017.
+
+\bibitem{scipyintegrateode}
+``Scipy.integrate.ode \textemdash{} {{SciPy}} v0.14.0 {{Reference Guide}}.''
+  https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.integrate.ode.html.
+
+\bibitem{ButcherNumericalmethodsordinary2008}
+J.~C. Butcher, {\em Numerical Methods for Ordinary Differential Equations}.
+\newblock Chichester, England ; Hoboken, NJ: {Wiley}, 2nd ed~ed., 2008.
+\newblock OCLC: ocn191024153.
+
+\bibitem{AnFittingfunctionsdark2013}
+J.~An and H.~Zhao, ``Fitting functions for dark matter density profiles,'' {\em
+  Monthly Notices of the Royal Astronomical Society}, vol.~428, pp.~2805--2811,
+  Feb. 2013.
+
+\bibitem{CoeDarkMatterHalo2010}
+D.~Coe, ``Dark {{Matter Halo Mass Profiles}},'' {\em arXiv:1005.0411
+  [astro-ph]}, May 2010.
+
+\end{thebibliography}

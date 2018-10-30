@@ -1,3 +1,14 @@
+# Latex Files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
